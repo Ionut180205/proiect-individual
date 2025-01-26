@@ -10,6 +10,6 @@ export default defineConfig({
   },
   preview: {
     // This will make sure the preview server uses the correct base path
-    base: '/proiect-individual/',
+    base: '/proiect-individual',
   }
 });
