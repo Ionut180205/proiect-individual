@@ -56,10 +56,10 @@ function App() {
               </>
             }
           />
-          <Route path="proiect-individual/login" element={<Login />} />
-          <Route path="proiect-individual/admin" element={<Admin />} />
-          <Route path="proiect-individual/resume" element={<Resume />} />
-          <Route path="proiect-individual/servicesabout" element={<ServicesAbout />} />
+          <Route path="/proiect-individual/login" element={<Login />} />
+          <Route path="/proiect-individual/admin" element={<Admin />} />
+          <Route path="/proiect-individual/resume" element={<Resume />} />
+          <Route path="/proiect-individual/servicesabout" element={<ServicesAbout />} />
           
         </Routes>
       </div>
